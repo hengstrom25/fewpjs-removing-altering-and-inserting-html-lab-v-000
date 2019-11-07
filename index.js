@@ -2,4 +2,4 @@
 
 let toRemove = document.querySelector('main#main');
 toRemove.remove();
-let newHeader = document.querySelector('h1')
+let newHeader = document.createElement('h1');

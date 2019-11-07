@@ -4,4 +4,4 @@ let toRemove = document.querySelector('main#main');
 toRemove.remove();
 let newHeader = document.createElement('h1');
 newHeader.id = "victory"
-newHeader.innerHTML = "YOUR"
+newHeader.innerHTML = "YOUR-NAME"

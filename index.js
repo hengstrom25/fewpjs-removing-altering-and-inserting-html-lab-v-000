@@ -1,3 +1,4 @@
 // Write your code here!
 
-document.querySelector('main#main')
+let toRemove = document.querySelector('main#main');
+toRemove.remove();
